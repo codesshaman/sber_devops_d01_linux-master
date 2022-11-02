@@ -307,4 +307,4 @@ ii  sntp                                  1:4.2.8p12+dfsg-3ubuntu4.20.04.1  amd6
 
 В общем, хэппи енд.
 
-На этом данный гайд завершён, переходим к [следующим частям](https://github.com/codesshaman/sber_devops_d01_linux-master/blob/main/02_SYSTEM_SETTING.md "Настройка системы") нашего повествования.
+На этом данный гайд завершён, переходим к [следующим частям](https://github.com/codesshaman/sber_devops_d01_linux-master/blob/main/03_INSTALL_SOFT.md "Установка софта") нашего повествования.
