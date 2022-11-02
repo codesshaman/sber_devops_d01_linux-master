@@ -8,7 +8,8 @@
 
 - [X] Установка ОС в virtualbox - [гайд 00](https://github.com/codesshaman/sber_devops_d01_linux-master/blob/main/00_INSTALL_SYSTEM.md "Установка ОС в virtualbox")
 - [X] Сохранение и экспорт виртуальной машины - [гайд 01](https://github.com/codesshaman/sber_devops_d01_linux-master/blob/main/01_EXPORT_AND_SAVE.md "Установка ОС в virtualbox")
-- [ ] Минимальная настройка системы - [гайд 02](https://github.com/codesshaman/sber_devops_d01_linux-master/blob/main/02_SYSTEM_SETTING.md "Минимальная настройка системы")
+- [X] Минимальная настройка системы - [гайд 02](https://github.com/codesshaman/sber_devops_d01_linux-master/blob/main/02_SYSTEM_SETTING.md "Минимальная настройка системы")
+- [ ] Установка базового софта - [гайд 02](https://github.com/codesshaman/sber_devops_d01_linux-master/blob/main/03_INSTALL_SOFT.md "Установка базовых программ")
 
 ***
 Вступительное слово
