@@ -223,7 +223,7 @@ user2 ALL=(ALL:ALL) ALL
 
 Сначала установим ntpd (сразу вводим -y чтобы не отвечать на вопрос об установке):
 
-``sudo apt-get install -y ntp``
+``sudo apt install -y ntp``
 
 Заодно установим демона для синхронизации по ntp:
 
