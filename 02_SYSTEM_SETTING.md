@@ -293,7 +293,7 @@ ii  sntp                                  1:4.2.8p12+dfsg-3ubuntu4.20.04.1  amd6
 
 Ну а если же ``System clock synchronized: no``, то ~~сносим нафиг убунту и ставим нормальный Debian~~ приступаем к ловле жуков, то бишь дебаггингу.
 
-В интернетах я узнал, что [эту проблему уже решали](https://serverfault.com/questions/1024770/ubuntu-20-04-time-sync-problems-and-possibly-incorrect-status-information "fuck ubuntu"). И её решение оказалось наиболее неожиданным. Что называется, "шок, жесть, смотреть всем!".
+В интернетах я узнал, что [эту проблему уже решали](https://serverfault.com/questions/1024770/ubuntu-20-04-time-sync-problems-and-possibly-incorrect-status-information "fuck ubuntu"). И её решение оказалось весьма неожиданным. Что называется, "шок, жесть, смотреть всем!".
 
 Ты ни за что не поверишь, что нужно сделать, чтобы всё починить... Барабанная дробь!...
 
