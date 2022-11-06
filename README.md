@@ -4,10 +4,15 @@
 
 Однако вся информация о том, что делать, будет дана, а стало быть, будет понимание что гуглить.
 
-Кому понравится данные гайды - ставьте звёзды! Так же делитесь ими с другими учениками.
+Кому понравится данные гайды - ставьте звёзды. Так же делитесь ими с другими учениками.
+
+В данном репозитории находится гайд по первому заданию ветки DevOps - D01_Linux
 
 - [X] Установка ОС в virtualbox - [гайд 00](https://github.com/codesshaman/sber_devops_d01_linux-master/blob/main/00_INSTALL_SYSTEM.md "Установка ОС в virtualbox")
 - [X] Сохранение и экспорт виртуальной машины - [гайд 01](https://github.com/codesshaman/sber_devops_d01_linux-master/blob/main/01_EXPORT_AND_SAVE.md "Установка ОС в virtualbox")
 - [X] Минимальная настройка системы - [гайд 02](https://github.com/codesshaman/sber_devops_d01_linux-master/blob/main/02_SYSTEM_SETTING.md "Минимальная настройка системы")
-- [ ] Установка базового софта - [гайд 02](https://github.com/codesshaman/sber_devops_d01_linux-master/blob/main/03_INSTALL_SOFT.md "Установка базовых программ")
+- [X] Установка базового софта - [гайд 02](https://github.com/codesshaman/sber_devops_d01_linux-master/blob/main/03_INSTALL_SOFT.md "Установка базовых программ")
 
+Следующий гайд - [DO2_LinuxNetwork](https://github.com/codesshaman/sber_devops_dO2_linux-network.git "Linux Network")
+
+Если же тебе нравится линукс и ты хочешь сделать DevOps своей профессией, читай мои [советы тем, кто выбирает devops](media/Советы_тем_кто_выбирает_devops.md "DevOps советы").
