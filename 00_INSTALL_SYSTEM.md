@@ -44,10 +44,6 @@
 
 ![установка ubuntu](media/install_ubuntu/step_6.png)
 
-В качестве переключателя раскладки я выбрал Alt+Shift, но это дело вкуса каждого:
-
-![установка ubuntu](media/install_ubuntu/step_7.png)
-
 Далее я просто нажимаю "продолжить (оно же "done") до момента когда нужно подтвердить форматирование диска:
 
 ![установка ubuntu](media/install_ubuntu/step_9.png)
