@@ -14,5 +14,3 @@
 - [X] Установка базового софта - [гайд 02](https://github.com/codesshaman/sber_devops_d01_linux-master/blob/main/03_INSTALL_SOFT.md "Установка базовых программ")
 
 Следующий гайд - [DO2_LinuxNetwork](https://github.com/codesshaman/sber_devops_dO2_linux-network.git "Linux Network")
-
-Если же тебе нравится линукс и ты хочешь сделать DevOps своей профессией, читай мои [советы тем, кто выбирает devops](media/Советы_тем_кто_выбирает_devops.md "DevOps советы").
